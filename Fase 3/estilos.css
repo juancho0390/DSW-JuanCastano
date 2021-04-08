@@ -8,7 +8,7 @@
 
 .navegacion
 {
-    width: 1000px;
+    width: 1200px;
     margin: 30px auto;
     background-color: white;
 }
@@ -141,6 +141,37 @@ aside
     font-family: 'Courier New', Courier, monospace;
     text-align-last:center ;
 }
+
+.bloque
+{
+    display:block;
+    padding: 20px;
+    position: relative;
+    width: 1000px;
+    background-color: #ffffff;
+    margin: auto;
+    font-family: "Arial Narrow";
+    font-size: xx-large;
+    text-align: justify;
+    z-index: -2;
+
+
+}
+
+/*ESTILOS DE PAGINA INTERFAZ DE USUARIO*/
+
+body
+{
+    background-color: rgb(250, 229, 171);
+}
+
+.home
+{
+    display: block;
+    padding-left: 200px;
+
+}
+
 
 
 
